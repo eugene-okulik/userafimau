@@ -7,4 +7,3 @@ hypotenuse = (cathetus_a**2 + cathetus_b**2) ** (1/2)
 
 print('Area:', area)
 print('Hypotenuse', hypotenuse)
-
