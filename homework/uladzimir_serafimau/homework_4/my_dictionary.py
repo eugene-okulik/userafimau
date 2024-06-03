@@ -14,7 +14,7 @@ del my_dict['list'][1]
 
 # Для того, что хранится под ключом 'dict'
 
-my_dict['dict']['i am a tuple'] = 555
+my_dict['dict'][('i am a tuple',)] = 555
 del my_dict['dict'][7]
 
 # Для того, что хранится под ключом 'set'
